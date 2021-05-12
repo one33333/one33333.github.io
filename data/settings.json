@@ -1,6 +1,6 @@
 {
     "tshirtPrice": 15.30,
-    "giftPrice": 5,
+    "giftPrice": 5.00,
     "spamTimeout": 30,
     "possibleTshirtSizes": [
         "XS",
