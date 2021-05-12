@@ -2,8 +2,9 @@
     "tshirtPrice": 15.30,
     "giftPrice": 5.00,
     "spamTimeout": 30,
+    "defaultTshirtSize": "M",
     "possibleTshirtSizes": [
-        "hallo",
+        "XS",
         "S",
         "M",
         "L",
